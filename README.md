@@ -16,7 +16,7 @@ Este projeto é uma página de login desenvolvida utilizando HTML5 e CSS3. A pá
 
 ## Demonstração
 
-- Veja a página online clicando[AQUI](https://patyfreitasbr.github.io/formulario-de-login/)
+- Veja a página online clicando [AQUI](https://patyfreitasbr.github.io/formulario-de-login/)
 <br>
 
 ![Gif página](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUF8Pr783Wciz08WHW4aAKnAJ7QFKPlNhaeWu868xpMd79Ib8OZKqyrBMp_0opn9DfYw9QohQkgtTdPeH131EhLDff3cAyrgKiU47LSe5nhTtvn-jucwF9UiOwOI-dqOrVcK-v4OirY_JEV8ph0O7Q1fnyZA1Tljvln9miWiV8oAGvWYQpFE9j9rivb6Ca/s16000/formulario-site.gif)
